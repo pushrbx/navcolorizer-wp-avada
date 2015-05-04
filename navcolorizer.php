@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: NavColorizer
- * Plugin URI: http://github.com/pushrbx
+ * Plugin URI: http://github.com/pushrbx/navcolorizer-wp-avada
  * Description: Colorize you main menu items.
  * Version: 1.1
  * Author: pushrbx
